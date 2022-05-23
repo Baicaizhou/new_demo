@@ -8,5 +8,6 @@ and
 
 develop
 
-基于master开发新功能13
+基于master开发
 
+开发者B开发了一些功能
